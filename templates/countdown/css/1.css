@@ -1,0 +1,25 @@
+/* LAYOUT */
+/* ----------------------------------------- */
+#top{background: #dadada; border-bottom: 5px solid #fff;}
+#logo h1,
+h2.headline{
+	color: #c0c0c0;
+	text-shadow: 0px 1px 0px #fff;
+}
+.countdown_section{
+	color: #aaa;	
+	text-shadow: 0px 1px 0px #fff;
+	border: 5px solid #ddd;
+}
+#send{
+	background-color: whiteSmoke;
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(white), to(#E6E6E6));
+	background-image: -webkit-linear-gradient(top, white, #E6E6E6);
+	background-image: -o-linear-gradient(top, white, #E6E6E6);
+	background-image: linear-gradient(to bottom, white, #E6E6E6);
+	background-image: -moz-linear-gradient(top, white, #E6E6E6);
+	filter: progid:dximagetransform.microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffe6e6e6', GradientType=0);
+	filter: progid:dximagetransform.microsoft.gradient(enabled=false);
+	color: #999;
+	text-shadow: 0px 1px 0px #fff;
+}

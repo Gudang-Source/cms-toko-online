@@ -1,0 +1,218 @@
+[07-Jan-2019 13:35:41 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/commoid1/public_html/config/koneksi.php on line 10
+[07-Jan-2019 13:35:41 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/commoid1/public_html/index.php on line 3
+[07-Jan-2019 13:35:41 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/commoid1/public_html/index.php on line 3
+[07-Jan-2019 13:35:53 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/commoid1/public_html/config/koneksi.php on line 10
+[07-Jan-2019 13:35:53 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/commoid1/public_html/index.php on line 3
+[07-Jan-2019 13:35:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/commoid1/public_html/index.php on line 3
+[07-Jan-2019 13:35:57 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/commoid1/public_html/config/koneksi.php on line 10
+[07-Jan-2019 13:35:57 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/commoid1/public_html/index.php on line 3
+[07-Jan-2019 13:35:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/commoid1/public_html/index.php on line 3
+[07-Jan-2019 13:36:58 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/commoid1/public_html/config/koneksi.php on line 10
+[07-Jan-2019 13:36:58 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/commoid1/public_html/index.php on line 3
+[07-Jan-2019 13:36:58 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/commoid1/public_html/index.php on line 3
+[07-Jan-2019 13:38:56 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'commoid1@localhost'@'medusa.in-hell.com' (using password: NO) in /home/commoid1/public_html/config/koneksi.php on line 10
+[07-Jan-2019 13:38:56 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/commoid1/public_html/index.php on line 3
+[07-Jan-2019 13:38:56 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/commoid1/public_html/index.php on line 3
+[07-Jan-2019 13:38:57 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'commoid1@localhost'@'medusa.in-hell.com' (using password: NO) in /home/commoid1/public_html/config/koneksi.php on line 10
+[07-Jan-2019 13:38:57 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/commoid1/public_html/index.php on line 3
+[07-Jan-2019 13:38:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/commoid1/public_html/index.php on line 3
+[07-Jan-2019 14:03:55 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'commoid1@localhost'@'medusa.in-hell.com' (using password: NO) in /home/commoid1/public_html/config/koneksi.php on line 10
+[07-Jan-2019 14:03:55 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/commoid1/public_html/index.php on line 3
+[07-Jan-2019 14:03:55 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/commoid1/public_html/index.php on line 3
+[08-Jan-2019 10:05:42 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'commoid1@localhost'@'medusa.in-hell.com' (using password: NO) in /home/commoid1/public_html/config/koneksi.php on line 10
+[08-Jan-2019 10:05:42 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/commoid1/public_html/index.php on line 3
+[08-Jan-2019 10:05:42 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/commoid1/public_html/index.php on line 3
+[08-Jan-2019 11:53:20 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'commoid1@localhost'@'medusa.in-hell.com' (using password: NO) in /home/commoid1/public_html/config/koneksi.php on line 10
+[08-Jan-2019 11:53:20 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/commoid1/public_html/index.php on line 3
+[08-Jan-2019 11:53:20 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/commoid1/public_html/index.php on line 3
+[08-Jan-2019 12:52:45 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'commoid1@localhost'@'medusa.in-hell.com' (using password: NO) in /home/commoid1/public_html/config/koneksi.php on line 10
+[08-Jan-2019 12:52:45 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/commoid1/public_html/index.php on line 3
+[08-Jan-2019 12:52:45 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/commoid1/public_html/index.php on line 3
+[14-Apr-2019 12:59:56 Asia/Jakarta] PHP Notice:  Use of undefined constant ShellPassword - assumed 'ShellPassword' in /home/commoid1/public_html/07.php(4) : eval()'d code on line 3
+[14-Apr-2019 12:59:56 Asia/Jakarta] PHP Notice:  Undefined variable: PHP_SELF in /home/commoid1/public_html/07.php(4) : eval()'d code on line 21
+[14-Apr-2019 13:00:03 Asia/Jakarta] PHP Notice:  Use of undefined constant ShellPassword - assumed 'ShellPassword' in /home/commoid1/public_html/07.php(4) : eval()'d code on line 3
+[14-Apr-2019 13:00:03 Asia/Jakarta] PHP Notice:  Use of undefined constant ShellPassword - assumed 'ShellPassword' in /home/commoid1/public_html/07.php(4) : eval()'d code on line 5
+[14-Apr-2019 13:00:03 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 120
+[14-Apr-2019 13:00:03 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 120
+[14-Apr-2019 13:00:03 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:00:03 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:00:03 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:00:03 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 122
+[14-Apr-2019 13:00:03 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 134
+[14-Apr-2019 13:00:03 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 185
+[14-Apr-2019 13:00:03 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 255
+[14-Apr-2019 13:00:03 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 379
+[14-Apr-2019 13:00:27 Asia/Jakarta] PHP Notice:  Use of undefined constant ShellPassword - assumed 'ShellPassword' in /home/commoid1/public_html/07.php(4) : eval()'d code on line 3
+[14-Apr-2019 13:00:27 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 120
+[14-Apr-2019 13:00:27 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 120
+[14-Apr-2019 13:00:27 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:00:27 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:00:27 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:00:27 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 122
+[14-Apr-2019 13:00:27 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 134
+[14-Apr-2019 13:00:27 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 185
+[14-Apr-2019 13:00:27 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 255
+[14-Apr-2019 13:00:27 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 379
+[14-Apr-2019 13:00:35 Asia/Jakarta] PHP Notice:  Use of undefined constant ShellPassword - assumed 'ShellPassword' in /home/commoid1/public_html/07.php(4) : eval()'d code on line 3
+[14-Apr-2019 13:00:35 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 120
+[14-Apr-2019 13:00:35 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 120
+[14-Apr-2019 13:00:35 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:00:35 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:00:35 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:00:35 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 122
+[14-Apr-2019 13:00:35 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 134
+[14-Apr-2019 13:00:35 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 185
+[14-Apr-2019 13:00:35 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 255
+[14-Apr-2019 13:00:35 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 379
+[14-Apr-2019 13:00:38 Asia/Jakarta] PHP Notice:  Use of undefined constant ShellPassword - assumed 'ShellPassword' in /home/commoid1/public_html/07.php(4) : eval()'d code on line 3
+[14-Apr-2019 13:00:38 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 120
+[14-Apr-2019 13:00:38 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 120
+[14-Apr-2019 13:00:38 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:00:38 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:00:38 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:00:38 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 122
+[14-Apr-2019 13:00:38 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 134
+[14-Apr-2019 13:00:38 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 185
+[14-Apr-2019 13:00:38 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 255
+[14-Apr-2019 13:00:38 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 379
+[14-Apr-2019 13:00:48 Asia/Jakarta] PHP Notice:  Use of undefined constant ShellPassword - assumed 'ShellPassword' in /home/commoid1/public_html/07.php(4) : eval()'d code on line 3
+[14-Apr-2019 13:00:48 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 120
+[14-Apr-2019 13:00:48 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 120
+[14-Apr-2019 13:00:48 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:00:48 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:00:48 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:00:48 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 122
+[14-Apr-2019 13:00:48 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 134
+[14-Apr-2019 13:00:48 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 185
+[14-Apr-2019 13:00:48 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 255
+[14-Apr-2019 13:00:48 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 379
+[14-Apr-2019 13:01:06 Asia/Jakarta] PHP Notice:  Use of undefined constant ShellPassword - assumed 'ShellPassword' in /home/commoid1/public_html/07.php(4) : eval()'d code on line 3
+[14-Apr-2019 13:01:06 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 120
+[14-Apr-2019 13:01:06 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 120
+[14-Apr-2019 13:01:06 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:01:06 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:01:06 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:01:06 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 122
+[14-Apr-2019 13:01:06 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 134
+[14-Apr-2019 13:01:06 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 185
+[14-Apr-2019 13:01:06 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 255
+[14-Apr-2019 13:01:06 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 379
+[14-Apr-2019 13:01:15 Asia/Jakarta] PHP Notice:  Use of undefined constant ShellPassword - assumed 'ShellPassword' in /home/commoid1/public_html/07.php(4) : eval()'d code on line 3
+[14-Apr-2019 13:01:15 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 120
+[14-Apr-2019 13:01:15 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 120
+[14-Apr-2019 13:01:15 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:01:15 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:01:15 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:01:15 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 122
+[14-Apr-2019 13:01:15 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 134
+[14-Apr-2019 13:01:15 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 185
+[14-Apr-2019 13:01:15 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 255
+[14-Apr-2019 13:01:15 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 379
+[14-Apr-2019 13:03:08 Asia/Jakarta] PHP Notice:  Use of undefined constant ShellPassword - assumed 'ShellPassword' in /home/commoid1/public_html/07.php(4) : eval()'d code on line 3
+[14-Apr-2019 13:03:08 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 120
+[14-Apr-2019 13:03:08 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 120
+[14-Apr-2019 13:03:08 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:03:08 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:03:08 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:03:08 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 122
+[14-Apr-2019 13:03:08 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 134
+[14-Apr-2019 13:03:08 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 185
+[14-Apr-2019 13:03:08 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 255
+[14-Apr-2019 13:03:08 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 379
+[14-Apr-2019 13:03:27 Asia/Jakarta] PHP Notice:  Use of undefined constant ShellPassword - assumed 'ShellPassword' in /home/commoid1/public_html/07.php(4) : eval()'d code on line 3
+[14-Apr-2019 13:03:27 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 120
+[14-Apr-2019 13:03:27 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 120
+[14-Apr-2019 13:03:27 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:03:27 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:03:27 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:03:27 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 122
+[14-Apr-2019 13:03:27 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 134
+[14-Apr-2019 13:03:27 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 185
+[14-Apr-2019 13:03:27 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 255
+[14-Apr-2019 13:03:27 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 379
+[14-Apr-2019 13:03:58 Asia/Jakarta] PHP Notice:  Use of undefined constant ShellPassword - assumed 'ShellPassword' in /home/commoid1/public_html/07.php(4) : eval()'d code on line 3
+[14-Apr-2019 13:03:58 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 120
+[14-Apr-2019 13:03:58 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 120
+[14-Apr-2019 13:03:58 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:03:58 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:03:58 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:03:58 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 122
+[14-Apr-2019 13:03:58 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 134
+[14-Apr-2019 13:03:58 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 185
+[14-Apr-2019 13:03:58 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 255
+[14-Apr-2019 13:03:58 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 379
+[14-Apr-2019 13:04:02 Asia/Jakarta] PHP Notice:  Use of undefined constant ShellPassword - assumed 'ShellPassword' in /home/commoid1/public_html/07.php(4) : eval()'d code on line 3
+[14-Apr-2019 13:04:02 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 120
+[14-Apr-2019 13:04:02 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 120
+[14-Apr-2019 13:04:02 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:04:02 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:04:02 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:04:02 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 258
+[14-Apr-2019 13:04:02 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 301
+[14-Apr-2019 13:04:02 Asia/Jakarta] PHP Warning:  fopen(): open_basedir restriction in effect. File(/etc/passwd) is not within the allowed path(s): (/home:/usr/lib/php:/usr/local/lib/php:/tmp) in /home/commoid1/public_html/07.php(4) : eval()'d code on line 335
+[14-Apr-2019 13:04:02 Asia/Jakarta] PHP Warning:  fopen(/etc/passwd): failed to open stream: Operation not permitted in /home/commoid1/public_html/07.php(4) : eval()'d code on line 335
+[14-Apr-2019 13:04:04 Asia/Jakarta] PHP Notice:  Use of undefined constant ShellPassword - assumed 'ShellPassword' in /home/commoid1/public_html/07.php(4) : eval()'d code on line 3
+[14-Apr-2019 13:04:04 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 120
+[14-Apr-2019 13:04:04 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 120
+[14-Apr-2019 13:04:04 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:04:04 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:04:04 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:04:04 Asia/Jakarta] PHP Warning:  fopen(): open_basedir restriction in effect. File(/etc/passwd) is not within the allowed path(s): (/home:/usr/lib/php:/usr/local/lib/php:/tmp) in /home/commoid1/public_html/07.php(4) : eval()'d code on line 135
+[14-Apr-2019 13:04:04 Asia/Jakarta] PHP Warning:  fopen(/etc/passwd): failed to open stream: Operation not permitted in /home/commoid1/public_html/07.php(4) : eval()'d code on line 135
+[14-Apr-2019 13:04:14 Asia/Jakarta] PHP Notice:  Use of undefined constant ShellPassword - assumed 'ShellPassword' in /home/commoid1/public_html/07.php(4) : eval()'d code on line 3
+[14-Apr-2019 13:04:14 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 120
+[14-Apr-2019 13:04:14 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 120
+[14-Apr-2019 13:04:14 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:04:14 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:04:14 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:04:14 Asia/Jakarta] PHP Warning:  fopen(): open_basedir restriction in effect. File(/etc/passwd) is not within the allowed path(s): (/home:/usr/lib/php:/usr/local/lib/php:/tmp) in /home/commoid1/public_html/07.php(4) : eval()'d code on line 135
+[14-Apr-2019 13:04:14 Asia/Jakarta] PHP Warning:  fopen(/etc/passwd): failed to open stream: Operation not permitted in /home/commoid1/public_html/07.php(4) : eval()'d code on line 135
+[14-Apr-2019 13:04:32 Asia/Jakarta] PHP Notice:  Use of undefined constant ShellPassword - assumed 'ShellPassword' in /home/commoid1/public_html/07.php(4) : eval()'d code on line 3
+[14-Apr-2019 13:04:32 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 120
+[14-Apr-2019 13:04:32 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 120
+[14-Apr-2019 13:04:32 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:04:32 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:04:32 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[14-Apr-2019 13:04:32 Asia/Jakarta] PHP Warning:  fopen(): open_basedir restriction in effect. File(/etc/passwd) is not within the allowed path(s): (/home:/usr/lib/php:/usr/local/lib/php:/tmp) in /home/commoid1/public_html/07.php(4) : eval()'d code on line 135
+[14-Apr-2019 13:04:32 Asia/Jakarta] PHP Warning:  fopen(/etc/passwd): failed to open stream: Operation not permitted in /home/commoid1/public_html/07.php(4) : eval()'d code on line 135
+[14-Apr-2019 13:04:37 Asia/Jakarta] PHP Warning:  file(): open_basedir restriction in effect. File(/etc/passwd) is not within the allowed path(s): (/home:/usr/lib/php:/usr/local/lib/php:/tmp) in /home/commoid1/public_html/get.php5 on line 19
+[14-Apr-2019 13:04:37 Asia/Jakarta] PHP Warning:  file(/etc/passwd): failed to open stream: Operation not permitted in /home/commoid1/public_html/get.php5 on line 19
+[14-Apr-2019 13:04:37 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/commoid1/public_html/get.php5 on line 20
+[14-Apr-2019 13:04:37 Asia/Jakarta] PHP Warning:  system() has been disabled for security reasons in /home/commoid1/public_html/get.php5 on line 25
+[14-Apr-2019 13:04:37 Asia/Jakarta] PHP Warning:  system() has been disabled for security reasons in /home/commoid1/public_html/get.php5 on line 26
+[14-Apr-2019 13:04:37 Asia/Jakarta] PHP Notice:  Undefined index: conf in /home/commoid1/public_html/get.php5 on line 68
+[14-Apr-2019 13:05:05 Asia/Jakarta] PHP Notice:  Use of undefined constant ShellPassword - assumed 'ShellPassword' in /home/commoid1/public_html/07.php(4) : eval()'d code on line 3
+[14-Apr-2019 13:05:05 Asia/Jakarta] PHP Notice:  Undefined variable: PHP_SELF in /home/commoid1/public_html/07.php(4) : eval()'d code on line 21
+[18-Apr-2019 09:14:27 Asia/Jakarta] PHP Notice:  Use of undefined constant ShellPassword - assumed 'ShellPassword' in /home/commoid1/public_html/07.php(4) : eval()'d code on line 3
+[18-Apr-2019 09:14:27 Asia/Jakarta] PHP Notice:  Undefined variable: PHP_SELF in /home/commoid1/public_html/07.php(4) : eval()'d code on line 21
+[18-Apr-2019 09:14:34 Asia/Jakarta] PHP Notice:  Use of undefined constant ShellPassword - assumed 'ShellPassword' in /home/commoid1/public_html/07.php(4) : eval()'d code on line 3
+[18-Apr-2019 09:14:34 Asia/Jakarta] PHP Notice:  Use of undefined constant ShellPassword - assumed 'ShellPassword' in /home/commoid1/public_html/07.php(4) : eval()'d code on line 5
+[18-Apr-2019 09:14:34 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 120
+[18-Apr-2019 09:14:34 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 120
+[18-Apr-2019 09:14:34 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[18-Apr-2019 09:14:34 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[18-Apr-2019 09:14:34 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[18-Apr-2019 09:14:34 Asia/Jakarta] PHP Warning:  fopen(): open_basedir restriction in effect. File(/etc/passwd) is not within the allowed path(s): (/home:/usr/lib/php:/usr/local/lib/php:/tmp) in /home/commoid1/public_html/07.php(4) : eval()'d code on line 135
+[18-Apr-2019 09:14:34 Asia/Jakarta] PHP Warning:  fopen(/etc/passwd): failed to open stream: Operation not permitted in /home/commoid1/public_html/07.php(4) : eval()'d code on line 135
+[18-Apr-2019 09:14:37 Asia/Jakarta] PHP Notice:  Use of undefined constant ShellPassword - assumed 'ShellPassword' in /home/commoid1/public_html/07.php(4) : eval()'d code on line 3
+[18-Apr-2019 09:14:37 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 120
+[18-Apr-2019 09:14:37 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 120
+[18-Apr-2019 09:14:37 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[18-Apr-2019 09:14:37 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[18-Apr-2019 09:14:37 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[18-Apr-2019 09:14:37 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 122
+[18-Apr-2019 09:14:37 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 134
+[18-Apr-2019 09:14:37 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 185
+[18-Apr-2019 09:14:37 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 255
+[18-Apr-2019 09:14:37 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 379
+[18-Apr-2019 09:14:56 Asia/Jakarta] PHP Notice:  Use of undefined constant ShellPassword - assumed 'ShellPassword' in /home/commoid1/public_html/07.php(4) : eval()'d code on line 3
+[18-Apr-2019 09:14:56 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 120
+[18-Apr-2019 09:14:56 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 120
+[18-Apr-2019 09:14:56 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[18-Apr-2019 09:14:56 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[18-Apr-2019 09:14:56 Asia/Jakarta] PHP Notice:  Undefined variable: dir in /home/commoid1/public_html/07.php(4) : eval()'d code on line 121
+[18-Apr-2019 09:14:56 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 122
+[18-Apr-2019 09:14:56 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 134
+[18-Apr-2019 09:14:56 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 185
+[18-Apr-2019 09:14:56 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 255
+[18-Apr-2019 09:14:56 Asia/Jakarta] PHP Notice:  Undefined index: do in /home/commoid1/public_html/07.php(4) : eval()'d code on line 379

@@ -1,0 +1,27 @@
+UNTUK LOGIN KE ADMINISTRATOR============================-ketikan pada browser: http://localhost/7TOKOONLINEV1/terasadmin/-Login: Username: admin password: admin123UNTUK MENJALANKAN SCRIPT DI LOCALHOST
+=====================================
+- Disarankan memakai software Xampp dengan php 5.6
+- Ekstrak file kreasiboutique.rar lalu letakkan pada folder htdocs pada Xampp
+- Konfigurasi koneksi database persiksa file koneksi.php
+  pada folder kreasiboutique/config
+  Sesuaikan dengan database:
+  $server = "localhost";
+  $username = "root";
+  $password = "";
+  $database = "namadatabase";
+  (bila pada Xampp kosongkan password
+- Dumping file kreasiboutique.sql ke MySQL
+  pada folder kreasiboutique/database
+- Jalankan browser http://localhost/namafolder
+- SELESAI
+
+UNTUK SETTING 404 PAGE NOT FOUND
+=================================
+-cari  file 404.shtml pada path folder utama kreasiboutique
+ ubah dengan URL web anda
+
+UNTUK SETTING WATERMARK PADA GAMBAR
+====================================
+-Rubah Gambar zal_marking2.png pada folder img_logo
+lalu save dengan format gambar yg sama (png) dan nama file yg sama (zal_marking2)
+

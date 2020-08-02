@@ -1,0 +1,5 @@
+[20-Feb-2019 14:00:40 Asia/Jakarta] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/commoid1/public_html/terasadmin/modul/mod_galerifoto/aksi_galerifoto.php on line 80
+[20-Feb-2019 14:00:40 Asia/Jakarta] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/commoid1/public_html/terasadmin/modul/mod_galerifoto/aksi_galerifoto.php on line 81
+[20-Feb-2019 14:00:40 Asia/Jakarta] PHP Notice:  Use of undefined constant nama_produk - assumed 'nama_produk' in /home/commoid1/public_html/terasadmin/modul/mod_galerifoto/aksi_galerifoto.php on line 129
+[20-Feb-2019 14:00:40 Asia/Jakarta] PHP Notice:  Undefined index: nama_produk in /home/commoid1/public_html/terasadmin/modul/mod_galerifoto/aksi_galerifoto.php on line 129
+[20-Feb-2019 14:00:40 Asia/Jakarta] PHP Notice:  Undefined index: nama_produk in /home/commoid1/public_html/terasadmin/modul/mod_galerifoto/aksi_galerifoto.php on line 156

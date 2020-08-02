@@ -1,0 +1,197 @@
+[19-Feb-2019 08:23:16 Asia/Jakarta] PHP Notice:  Use of undefined constant lf - assumed 'lf' in /home/commoid1/public_html/member/cek_login.php on line 3
+[19-Feb-2019 08:23:16 Asia/Jakarta] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/commoid1/public_html/member/cek_login.php on line 9
+[19-Feb-2019 08:23:16 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/commoid1/public_html/member/cek_login.php on line 5
+[19-Feb-2019 08:23:16 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): Access denied for user 'commoid1'@'localhost' (using password: NO) in /home/commoid1/public_html/member/cek_login.php on line 5
+[19-Feb-2019 08:23:16 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): A link to the server could not be established in /home/commoid1/public_html/member/cek_login.php on line 5
+[19-Feb-2019 08:23:16 Asia/Jakarta] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/commoid1/public_html/member/cek_login.php on line 10
+[19-Feb-2019 08:23:16 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/commoid1/public_html/member/cek_login.php on line 5
+[19-Feb-2019 08:23:16 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): Access denied for user 'commoid1'@'localhost' (using password: NO) in /home/commoid1/public_html/member/cek_login.php on line 5
+[19-Feb-2019 08:23:16 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): A link to the server could not be established in /home/commoid1/public_html/member/cek_login.php on line 5
+[22-Feb-2019 09:03:55 Asia/Jakarta] PHP Notice:  Use of undefined constant lf - assumed 'lf' in /home/commoid1/public_html/member/cek_login.php on line 3
+[22-Feb-2019 09:03:55 Asia/Jakarta] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/commoid1/public_html/member/cek_login.php on line 9
+[22-Feb-2019 09:03:55 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/commoid1/public_html/member/cek_login.php on line 5
+[22-Feb-2019 09:03:55 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): Access denied for user 'commoid1'@'localhost' (using password: NO) in /home/commoid1/public_html/member/cek_login.php on line 5
+[22-Feb-2019 09:03:55 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): A link to the server could not be established in /home/commoid1/public_html/member/cek_login.php on line 5
+[22-Feb-2019 09:03:55 Asia/Jakarta] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/commoid1/public_html/member/cek_login.php on line 10
+[22-Feb-2019 09:03:55 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/commoid1/public_html/member/cek_login.php on line 5
+[22-Feb-2019 09:03:55 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): Access denied for user 'commoid1'@'localhost' (using password: NO) in /home/commoid1/public_html/member/cek_login.php on line 5
+[22-Feb-2019 09:03:55 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): A link to the server could not be established in /home/commoid1/public_html/member/cek_login.php on line 5
+[02-Mar-2019 11:37:03 Asia/Jakarta] PHP Notice:  Use of undefined constant lf - assumed 'lf' in /home/commoid1/public_html/member/cek_login.php on line 3
+[02-Mar-2019 11:37:03 Asia/Jakarta] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/commoid1/public_html/member/cek_login.php on line 9
+[02-Mar-2019 11:37:03 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/commoid1/public_html/member/cek_login.php on line 5
+[02-Mar-2019 11:37:03 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): Access denied for user 'commoid1'@'localhost' (using password: NO) in /home/commoid1/public_html/member/cek_login.php on line 5
+[02-Mar-2019 11:37:03 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): A link to the server could not be established in /home/commoid1/public_html/member/cek_login.php on line 5
+[02-Mar-2019 11:37:03 Asia/Jakarta] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/commoid1/public_html/member/cek_login.php on line 10
+[02-Mar-2019 11:37:03 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/commoid1/public_html/member/cek_login.php on line 5
+[02-Mar-2019 11:37:03 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): Access denied for user 'commoid1'@'localhost' (using password: NO) in /home/commoid1/public_html/member/cek_login.php on line 5
+[02-Mar-2019 11:37:03 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): A link to the server could not be established in /home/commoid1/public_html/member/cek_login.php on line 5
+[02-Mar-2019 11:37:14 Asia/Jakarta] PHP Notice:  Use of undefined constant lf - assumed 'lf' in /home/commoid1/public_html/member/cek_login.php on line 3
+[02-Mar-2019 11:37:14 Asia/Jakarta] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/commoid1/public_html/member/cek_login.php on line 9
+[02-Mar-2019 11:37:14 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/commoid1/public_html/member/cek_login.php on line 5
+[02-Mar-2019 11:37:14 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): Access denied for user 'commoid1'@'localhost' (using password: NO) in /home/commoid1/public_html/member/cek_login.php on line 5
+[02-Mar-2019 11:37:14 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): A link to the server could not be established in /home/commoid1/public_html/member/cek_login.php on line 5
+[02-Mar-2019 11:37:14 Asia/Jakarta] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/commoid1/public_html/member/cek_login.php on line 10
+[02-Mar-2019 11:37:14 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/commoid1/public_html/member/cek_login.php on line 5
+[02-Mar-2019 11:37:14 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): Access denied for user 'commoid1'@'localhost' (using password: NO) in /home/commoid1/public_html/member/cek_login.php on line 5
+[02-Mar-2019 11:37:14 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): A link to the server could not be established in /home/commoid1/public_html/member/cek_login.php on line 5
+[12-May-2019 23:49:23 Asia/Jakarta] PHP Notice:  Use of undefined constant lf - assumed 'lf' in /home/commoid1/public_html/member/cek_login.php on line 3
+[12-May-2019 23:49:23 Asia/Jakarta] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/commoid1/public_html/member/cek_login.php on line 9
+[12-May-2019 23:49:23 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/commoid1/public_html/member/cek_login.php on line 5
+[12-May-2019 23:49:23 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): Access denied for user 'commoid1'@'localhost' (using password: NO) in /home/commoid1/public_html/member/cek_login.php on line 5
+[12-May-2019 23:49:23 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): A link to the server could not be established in /home/commoid1/public_html/member/cek_login.php on line 5
+[12-May-2019 23:49:23 Asia/Jakarta] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/commoid1/public_html/member/cek_login.php on line 10
+[12-May-2019 23:49:23 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/commoid1/public_html/member/cek_login.php on line 5
+[12-May-2019 23:49:23 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): Access denied for user 'commoid1'@'localhost' (using password: NO) in /home/commoid1/public_html/member/cek_login.php on line 5
+[12-May-2019 23:49:23 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): A link to the server could not be established in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 15:22:43 Asia/Jakarta] PHP Notice:  Use of undefined constant lf - assumed 'lf' in /home/commoid1/public_html/member/cek_login.php on line 3
+[21-May-2019 15:22:43 Asia/Jakarta] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/commoid1/public_html/member/cek_login.php on line 9
+[21-May-2019 15:22:43 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 15:22:43 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): Access denied for user 'commoid1'@'localhost' (using password: NO) in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 15:22:43 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): A link to the server could not be established in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 15:22:43 Asia/Jakarta] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/commoid1/public_html/member/cek_login.php on line 10
+[21-May-2019 15:22:43 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 15:22:43 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): Access denied for user 'commoid1'@'localhost' (using password: NO) in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 15:22:43 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): A link to the server could not be established in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 15:34:16 Asia/Jakarta] PHP Notice:  Use of undefined constant lf - assumed 'lf' in /home/commoid1/public_html/member/cek_login.php on line 3
+[21-May-2019 15:34:16 Asia/Jakarta] PHP Notice:  Undefined index: lf in /home/commoid1/public_html/member/cek_login.php on line 3
+[21-May-2019 15:34:16 Asia/Jakarta] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/commoid1/public_html/member/cek_login.php on line 9
+[21-May-2019 15:34:16 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/commoid1/public_html/member/cek_login.php on line 9
+[21-May-2019 15:34:16 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 15:34:16 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): Access denied for user 'commoid1'@'localhost' (using password: NO) in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 15:34:16 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): A link to the server could not be established in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 15:34:16 Asia/Jakarta] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/commoid1/public_html/member/cek_login.php on line 10
+[21-May-2019 15:34:16 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/commoid1/public_html/member/cek_login.php on line 10
+[21-May-2019 15:34:16 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 15:34:16 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): Access denied for user 'commoid1'@'localhost' (using password: NO) in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 15:34:16 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): A link to the server could not be established in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:20:56 Asia/Jakarta] PHP Notice:  Use of undefined constant lf - assumed 'lf' in /home/commoid1/public_html/member/cek_login.php on line 3
+[21-May-2019 16:20:56 Asia/Jakarta] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/commoid1/public_html/member/cek_login.php on line 9
+[21-May-2019 16:20:56 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:20:56 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): Access denied for user 'commoid1'@'localhost' (using password: NO) in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:20:56 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): A link to the server could not be established in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:20:56 Asia/Jakarta] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/commoid1/public_html/member/cek_login.php on line 10
+[21-May-2019 16:20:56 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:20:56 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): Access denied for user 'commoid1'@'localhost' (using password: NO) in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:20:56 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): A link to the server could not be established in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:21:04 Asia/Jakarta] PHP Notice:  Use of undefined constant lf - assumed 'lf' in /home/commoid1/public_html/member/cek_login.php on line 3
+[21-May-2019 16:21:04 Asia/Jakarta] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/commoid1/public_html/member/cek_login.php on line 9
+[21-May-2019 16:21:04 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:21:04 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): Access denied for user 'commoid1'@'localhost' (using password: NO) in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:21:04 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): A link to the server could not be established in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:21:04 Asia/Jakarta] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/commoid1/public_html/member/cek_login.php on line 10
+[21-May-2019 16:21:04 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:21:04 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): Access denied for user 'commoid1'@'localhost' (using password: NO) in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:21:04 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): A link to the server could not be established in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:23:20 Asia/Jakarta] PHP Notice:  Use of undefined constant lf - assumed 'lf' in /home/commoid1/public_html/member/cek_login.php on line 3
+[21-May-2019 16:23:20 Asia/Jakarta] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/commoid1/public_html/member/cek_login.php on line 9
+[21-May-2019 16:23:20 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:23:20 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): Access denied for user 'commoid1'@'localhost' (using password: NO) in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:23:20 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): A link to the server could not be established in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:23:20 Asia/Jakarta] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/commoid1/public_html/member/cek_login.php on line 10
+[21-May-2019 16:23:20 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:23:20 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): Access denied for user 'commoid1'@'localhost' (using password: NO) in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:23:20 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): A link to the server could not be established in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:25:38 Asia/Jakarta] PHP Notice:  Use of undefined constant lf - assumed 'lf' in /home/commoid1/public_html/member/cek_login.php on line 3
+[21-May-2019 16:25:38 Asia/Jakarta] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/commoid1/public_html/member/cek_login.php on line 9
+[21-May-2019 16:25:38 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:25:38 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): Access denied for user 'commoid1'@'localhost' (using password: NO) in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:25:38 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): A link to the server could not be established in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:25:38 Asia/Jakarta] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/commoid1/public_html/member/cek_login.php on line 10
+[21-May-2019 16:25:38 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:25:38 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): Access denied for user 'commoid1'@'localhost' (using password: NO) in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:25:38 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): A link to the server could not be established in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:27:03 Asia/Jakarta] PHP Notice:  Use of undefined constant lf - assumed 'lf' in /home/commoid1/public_html/member/cek_login.php on line 3
+[21-May-2019 16:27:03 Asia/Jakarta] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/commoid1/public_html/member/cek_login.php on line 9
+[21-May-2019 16:27:03 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:27:03 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): Access denied for user 'commoid1'@'localhost' (using password: NO) in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:27:03 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): A link to the server could not be established in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:27:03 Asia/Jakarta] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/commoid1/public_html/member/cek_login.php on line 10
+[21-May-2019 16:27:03 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:27:03 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): Access denied for user 'commoid1'@'localhost' (using password: NO) in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:27:03 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): A link to the server could not be established in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:27:03 Asia/Jakarta] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/commoid1/public_html/member/cek_login.php on line 41
+[21-May-2019 16:29:46 Asia/Jakarta] PHP Notice:  Use of undefined constant lf - assumed 'lf' in /home/commoid1/public_html/member/cek_login.php on line 3
+[21-May-2019 16:29:46 Asia/Jakarta] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/commoid1/public_html/member/cek_login.php on line 9
+[21-May-2019 16:29:46 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/commoid1/public_html/member/cek_login.php on line 9
+[21-May-2019 16:29:46 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): Access denied for user 'commoid1'@'localhost' (using password: NO) in /home/commoid1/public_html/member/cek_login.php on line 9
+[21-May-2019 16:29:46 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): A link to the server could not be established in /home/commoid1/public_html/member/cek_login.php on line 9
+[21-May-2019 16:29:46 Asia/Jakarta] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/commoid1/public_html/member/cek_login.php on line 10
+[21-May-2019 16:29:46 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:29:46 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): Access denied for user 'commoid1'@'localhost' (using password: NO) in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:29:46 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): A link to the server could not be established in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:29:46 Asia/Jakarta] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/commoid1/public_html/member/cek_login.php on line 41
+[21-May-2019 16:29:46 Asia/Jakarta] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/commoid1/public_html/member/cek_login.php on line 41
+[21-May-2019 16:31:01 Asia/Jakarta] PHP Notice:  Use of undefined constant lf - assumed 'lf' in /home/commoid1/public_html/member/cek_login.php on line 3
+[21-May-2019 16:31:01 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/commoid1/public_html/member/cek_login.php on line 9
+[21-May-2019 16:31:01 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): Access denied for user 'commoid1'@'localhost' (using password: NO) in /home/commoid1/public_html/member/cek_login.php on line 9
+[21-May-2019 16:31:01 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): A link to the server could not be established in /home/commoid1/public_html/member/cek_login.php on line 9
+[21-May-2019 16:31:01 Asia/Jakarta] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/commoid1/public_html/member/cek_login.php on line 10
+[21-May-2019 16:31:01 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:31:01 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): Access denied for user 'commoid1'@'localhost' (using password: NO) in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:31:01 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): A link to the server could not be established in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:31:01 Asia/Jakarta] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/commoid1/public_html/member/cek_login.php on line 41
+[21-May-2019 16:31:01 Asia/Jakarta] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/commoid1/public_html/member/cek_login.php on line 41
+[21-May-2019 16:32:37 Asia/Jakarta] PHP Notice:  Use of undefined constant lf - assumed 'lf' in /home/commoid1/public_html/member/cek_login.php on line 3
+[21-May-2019 16:32:37 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/commoid1/public_html/member/cek_login.php on line 9
+[21-May-2019 16:32:37 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): Access denied for user 'commoid1'@'localhost' (using password: NO) in /home/commoid1/public_html/member/cek_login.php on line 9
+[21-May-2019 16:32:37 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): A link to the server could not be established in /home/commoid1/public_html/member/cek_login.php on line 9
+[21-May-2019 16:32:37 Asia/Jakarta] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/commoid1/public_html/member/cek_login.php on line 10
+[21-May-2019 16:32:37 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:32:37 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): Access denied for user 'commoid1'@'localhost' (using password: NO) in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:32:37 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): A link to the server could not be established in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:32:37 Asia/Jakarta] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/commoid1/public_html/member/cek_login.php on line 41
+[21-May-2019 16:32:37 Asia/Jakarta] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/commoid1/public_html/member/cek_login.php on line 41
+[21-May-2019 16:33:07 Asia/Jakarta] PHP Notice:  Use of undefined constant lf - assumed 'lf' in /home/commoid1/public_html/member/cek_login.php on line 3
+[21-May-2019 16:33:07 Asia/Jakarta] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/commoid1/public_html/member/cek_login.php on line 10
+[21-May-2019 16:33:07 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:33:07 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): Access denied for user 'commoid1'@'localhost' (using password: NO) in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:33:07 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): A link to the server could not be established in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:33:07 Asia/Jakarta] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/commoid1/public_html/member/cek_login.php on line 41
+[21-May-2019 16:33:07 Asia/Jakarta] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/commoid1/public_html/member/cek_login.php on line 41
+[21-May-2019 16:33:44 Asia/Jakarta] PHP Notice:  Use of undefined constant lf - assumed 'lf' in /home/commoid1/public_html/member/cek_login.php on line 3
+[21-May-2019 16:33:44 Asia/Jakarta] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/commoid1/public_html/member/cek_login.php on line 10
+[21-May-2019 16:33:44 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:33:44 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): Access denied for user 'commoid1'@'localhost' (using password: NO) in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:33:44 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): A link to the server could not be established in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:33:44 Asia/Jakarta] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/commoid1/public_html/member/cek_login.php on line 41
+[21-May-2019 16:34:21 Asia/Jakarta] PHP Notice:  Use of undefined constant lf - assumed 'lf' in /home/commoid1/public_html/member/cek_login.php on line 3
+[21-May-2019 16:34:21 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/commoid1/public_html/member/cek_login.php on line 9
+[21-May-2019 16:34:21 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): Access denied for user 'commoid1'@'localhost' (using password: NO) in /home/commoid1/public_html/member/cek_login.php on line 9
+[21-May-2019 16:34:21 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): A link to the server could not be established in /home/commoid1/public_html/member/cek_login.php on line 9
+[21-May-2019 16:34:21 Asia/Jakarta] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/commoid1/public_html/member/cek_login.php on line 10
+[21-May-2019 16:34:21 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:34:21 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): Access denied for user 'commoid1'@'localhost' (using password: NO) in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:34:21 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): A link to the server could not be established in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:34:21 Asia/Jakarta] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/commoid1/public_html/member/cek_login.php on line 41
+[21-May-2019 16:34:56 Asia/Jakarta] PHP Notice:  Use of undefined constant lf - assumed 'lf' in /home/commoid1/public_html/member/cek_login.php on line 3
+[21-May-2019 16:34:56 Asia/Jakarta] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/commoid1/public_html/member/cek_login.php on line 10
+[21-May-2019 16:34:56 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:34:56 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): Access denied for user 'commoid1'@'localhost' (using password: NO) in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:34:56 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string(): A link to the server could not be established in /home/commoid1/public_html/member/cek_login.php on line 5
+[21-May-2019 16:34:56 Asia/Jakarta] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/commoid1/public_html/member/cek_login.php on line 41
+[21-May-2019 16:35:36 Asia/Jakarta] PHP Notice:  Use of undefined constant lf - assumed 'lf' in /home/commoid1/public_html/member/cek_login.php on line 3
+[21-May-2019 16:35:36 Asia/Jakarta] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/commoid1/public_html/member/cek_login.php on line 9
+[21-May-2019 16:35:36 Asia/Jakarta] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/commoid1/public_html/member/cek_login.php on line 10
+[21-May-2019 16:35:36 Asia/Jakarta] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/commoid1/public_html/member/cek_login.php on line 41
+[21-May-2019 16:36:02 Asia/Jakarta] PHP Notice:  Use of undefined constant lf - assumed 'lf' in /home/commoid1/public_html/member/cek_login.php on line 3
+[21-May-2019 16:36:02 Asia/Jakarta] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/commoid1/public_html/member/cek_login.php on line 9
+[21-May-2019 16:36:02 Asia/Jakarta] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/commoid1/public_html/member/cek_login.php on line 10
+[21-May-2019 16:36:02 Asia/Jakarta] PHP Notice:  Use of undefined constant namauser - assumed 'namauser' in /home/commoid1/public_html/member/cek_login.php on line 21
+[21-May-2019 16:36:02 Asia/Jakarta] PHP Notice:  Use of undefined constant id_kustomer - assumed 'id_kustomer' in /home/commoid1/public_html/member/cek_login.php on line 21
+[21-May-2019 16:36:02 Asia/Jakarta] PHP Notice:  Use of undefined constant namalengkap - assumed 'namalengkap' in /home/commoid1/public_html/member/cek_login.php on line 22
+[21-May-2019 16:36:02 Asia/Jakarta] PHP Notice:  Use of undefined constant nama_lengkap - assumed 'nama_lengkap' in /home/commoid1/public_html/member/cek_login.php on line 22
+[21-May-2019 16:36:02 Asia/Jakarta] PHP Notice:  Use of undefined constant passuser - assumed 'passuser' in /home/commoid1/public_html/member/cek_login.php on line 23
+[21-May-2019 16:36:02 Asia/Jakarta] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/commoid1/public_html/member/cek_login.php on line 23
+[21-May-2019 16:36:02 Asia/Jakarta] PHP Notice:  Use of undefined constant leveluser - assumed 'leveluser' in /home/commoid1/public_html/member/cek_login.php on line 24
+[21-May-2019 16:36:02 Asia/Jakarta] PHP Notice:  Use of undefined constant level - assumed 'level' in /home/commoid1/public_html/member/cek_login.php on line 24
+[22-May-2019 09:20:16 Asia/Jakarta] PHP Notice:  Use of undefined constant lf - assumed 'lf' in /home/commoid1/public_html/member/cek_login.php on line 3
+[22-May-2019 09:20:16 Asia/Jakarta] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/commoid1/public_html/member/cek_login.php on line 9
+[22-May-2019 09:20:16 Asia/Jakarta] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/commoid1/public_html/member/cek_login.php on line 10
+[22-May-2019 09:20:16 Asia/Jakarta] PHP Notice:  Use of undefined constant namauser - assumed 'namauser' in /home/commoid1/public_html/member/cek_login.php on line 21
+[22-May-2019 09:20:16 Asia/Jakarta] PHP Notice:  Use of undefined constant id_kustomer - assumed 'id_kustomer' in /home/commoid1/public_html/member/cek_login.php on line 21
+[22-May-2019 09:20:16 Asia/Jakarta] PHP Notice:  Use of undefined constant namalengkap - assumed 'namalengkap' in /home/commoid1/public_html/member/cek_login.php on line 22
+[22-May-2019 09:20:16 Asia/Jakarta] PHP Notice:  Use of undefined constant nama_lengkap - assumed 'nama_lengkap' in /home/commoid1/public_html/member/cek_login.php on line 22
+[22-May-2019 09:20:16 Asia/Jakarta] PHP Notice:  Use of undefined constant passuser - assumed 'passuser' in /home/commoid1/public_html/member/cek_login.php on line 23
+[22-May-2019 09:20:16 Asia/Jakarta] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/commoid1/public_html/member/cek_login.php on line 23
+[22-May-2019 09:20:16 Asia/Jakarta] PHP Notice:  Use of undefined constant leveluser - assumed 'leveluser' in /home/commoid1/public_html/member/cek_login.php on line 24
+[22-May-2019 09:20:16 Asia/Jakarta] PHP Notice:  Use of undefined constant level - assumed 'level' in /home/commoid1/public_html/member/cek_login.php on line 24

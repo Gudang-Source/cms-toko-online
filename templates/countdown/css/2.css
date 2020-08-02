@@ -1,0 +1,25 @@
+/* LAYOUT */
+/* ----------------------------------------- */
+#top{background: #0088CC; border-bottom: 5px solid #fff;}
+#logo h1,
+h2.headline{
+	color: #00679A;
+	text-shadow: 0px 1px 0px #62B5DF;
+}
+.countdown_section{
+	color: #0088CC;	
+	text-shadow: 0px 1px 0px #fff;
+	border: 5px solid #AFCDE0;
+}
+#send{
+	background: #0088CC;
+	background: -moz-linear-gradient(top,  #AFCDE0 0%, #0088CC 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#AFCDE0), color-stop(100%,#0088CC));
+	background: -webkit-linear-gradient(top,  #AFCDE0 0%,#0088CC 100%);
+	background: -o-linear-gradient(top,  #AFCDE0 0%,#0088CC 100%);
+	background: -ms-linear-gradient(top,  #AFCDE0 0%,#0088CC 100%);
+	background: linear-gradient(to bottom,  #AFCDE0 0%,#0088CC 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#AFCDE0', endColorstr='#0088CC',GradientType=0 );
+	color: #fefefe;
+	text-shadow: none;
+}

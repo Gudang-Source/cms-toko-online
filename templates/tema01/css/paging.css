@@ -1,0 +1,70 @@
+.halaman {
+	font-size: 11px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin-bottom:20px;
+
+}
+
+.halaman a, .halaman span {
+	color:#999;
+	display: block;
+	float: left;
+	margin-right: 0.5em;
+	border: 1px solid #fff;
+	background: #fff;
+	padding-top:0px;
+	padding-right:5px;
+	padding-bottom:0px;
+	padding-left:5px;
+}
+
+.halaman span.current {
+border: 1px solid #cccccc;
+font-weight: bold;
+background: #cccccc;
+color: #fff;
+}
+
+.halaman a {
+border: 1px solid #cccccc;
+text-decoration: none;
+}
+
+.halaman a:hover {
+border-color: #FF9900;
+background:#FF9900;
+color: #fff;
+
+}
+
+.halaman a.nextprev {
+font-weight: bold;
+}
+
+.halaman span.nextprev {
+color: #999;
+}
+
+.halaman span.nextprev {
+border: 1px solid #ddd;
+color: #999;
+}
+
+.halaman .nextprev-next {
+float: right;
+}
+
+
+.margin_paging{
+	margin-left: 15px;
+	float: left;
+	
+}
+
+.margin_paging2{
+	float: left;
+	width: 600px;	
+   margin-left: 5px;
+
+	
+}

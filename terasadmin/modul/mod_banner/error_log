@@ -1,0 +1,4 @@
+[14-Apr-2019 12:59:09 Asia/Jakarta] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/commoid1/public_html/terasadmin/modul/mod_banner/aksi_banner.php on line 31
+[14-Apr-2019 12:59:09 Asia/Jakarta] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/commoid1/public_html/terasadmin/modul/mod_banner/aksi_banner.php on line 32
+[14-Apr-2019 13:00:12 Asia/Jakarta] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/commoid1/public_html/terasadmin/modul/mod_banner/aksi_banner.php on line 31
+[14-Apr-2019 13:00:12 Asia/Jakarta] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/commoid1/public_html/terasadmin/modul/mod_banner/aksi_banner.php on line 32
